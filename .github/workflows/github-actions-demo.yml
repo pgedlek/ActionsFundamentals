@@ -26,4 +26,4 @@ jobs:
       - name: List all files in the repository
         run: |
           echo "All files in repo:"
-          find . -type f
+          tree
