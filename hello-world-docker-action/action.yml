@@ -1,0 +1,18 @@
+name: Docker hello world
+
+inputs:
+  who-to-greet:
+    description: Who to greet in the log
+    required: true
+    default: 'world'
+    type: string
+
+outputs:
+  time:
+    descirption: 'The time we said hello'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.who-to-greet }}
