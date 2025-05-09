@@ -29,12 +29,12 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Events that trigger workflow
 - [ ] Jobs and steps
 - [ ] :mag: Demo: Creating a workflow
-- [ X ] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
+- [ ✔️ ] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
 - [ ] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [ ] :coffee: Break
 - [ ] GitHub Actions
 - [ ] Types of Actions
-- [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
+- [ ✔️ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
 - [ ] Typescript and composite actions
 - [ ] Sharing and releasing actions
 - [ ] Using the GitHub API and Octokit
@@ -46,7 +46,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Permissions for GitHub Token
 - [ ] Environments and Secrets
 - [ ] Staged deployments with environments, approvals, and deployment gates
-- [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
+- [ ✔️ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
 - [ ] :coffee: Break
 - [ ] Action policies
 - [ ] Running your workflows
